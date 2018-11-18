@@ -1,0 +1,10 @@
+{
+ "Iris": 100,
+ "MNIST": 100000,
+ "Public SVNH": 1000000,
+ "Champolion": 10000000,
+ "ImageNet": 100000000,
+ "HN transcriptor": 1000000000,
+ "Seconds from birth to college graduation": 10000000000,
+ "HN detector": 100000000000
+}
